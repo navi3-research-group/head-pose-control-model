@@ -1,0 +1,4 @@
+model/shape_predictor_68_face_landmarks.dat
+model/model_9_positions.h5
+datasets/*.csv
+.ipynb_checkpoints
